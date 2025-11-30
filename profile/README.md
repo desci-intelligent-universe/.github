@@ -1,163 +1,134 @@
 # DeSci Intelligent Universe (DIU)
 
-> Building the Cognitive Future of Science - Where AI and humans collaborate as equals in scientific discovery
+<div align="center">
 
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-Early%20Development-yellow.svg)](https://github.com/desci-intelligent-universe)
-[![Discussions](https://img.shields.io/github/discussions/desci-intelligent-universe/.github)](https://github.com/orgs/desci-intelligent-universe/discussions)
+**Building the Cognitive Future of Science**
 
-## 🚀 Mission
+*Where AI and humans collaborate as equals in scientific discovery*
 
-We're creating an autonomous scientific ecosystem that fundamentally transforms how humanity conducts research and generates knowledge. Unlike traditional platforms that help researchers *read* science, DIU enables AI to actively *do* science alongside human researchers.
+[![Status](https://img.shields.io/badge/Status-Phase%200%20Active-brightgreen)](https://github.com/desci-intelligent-universe)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## 🎯 What Makes DIU Different
+**Updated: November 29, 2025**
 
-| Traditional Platforms | DIU Approach |
-|----------------------|--------------|
-| AI analyzes existing papers | AI generates new hypotheses |
-| Static PDF publications | Interactive "living" publications |
-| Text-based interfaces | Immersive VR/AR laboratories |
-| Centralized databases | Blockchain-verified reproducibility |
-| Manual peer review | AI-assisted validation |
+</div>
 
-## 🔬 Core Technologies
+---
 
-### Currently Building
-- **🎓 Interactive Physics Education** - Quantum physics simulations with real-time parameter manipulation
-- **🤖 AI Research Assistant** - Hypothesis generation based on 225M+ scientific papers
-- **📊 Living Publications** - Research papers where readers can modify parameters and see results change
-- **🔗 Decentralized Infrastructure** - Web3-based funding and verification systems
+## 🎯 Current Focus: Interactive Quantum Physics Tutorial
 
-### Roadmap Highlights
-- **Q1-Q2 2025**: MVP Launch - Interactive Quantum Physics Tutorial
-- **Q3-Q4 2025**: AI Integration & Web3 Infrastructure
-- **2026**: Virtual Research Laboratories
-- **2027+**: Full Metaverse & Autonomous AI Researchers
+We're building an **MVP** that demonstrates the DIU vision through immersive physics education.
 
-## 🏗️ Technical Architecture
+### What We're Building
 
-Built on cutting-edge, scalable technologies:
+| Feature | Description | Status |
+|---------|-------------|--------|
+| 🌊 **3D Simulations** | Double-slit, tunneling, hydrogen atom | 🔄 In Progress |
+| 🤖 **AI Assistant** | Contextual explanations, "what if" questions | 🔄 In Progress |
+| 📊 **Progress Tracking** | XP, achievements, certificates | 📝 Planned |
+| 🔗 **NFT Credentials** | Blockchain-verified achievements | 📝 Planned |
+
+---
+
+## 📦 Repositories
+
+| Repository | Description | Status |
+|------------|-------------|--------|
+| **[physics-tutorial](https://github.com/desci-intelligent-universe/physics-tutorial)** | Interactive Quantum Physics MVP | 🟢 Active |
+| **[.github](https://github.com/desci-intelligent-universe/.github)** | Organization profile & templates | ✅ |
+
+---
+
+## 🗺️ Roadmap
+
+### Phase 0: MVP (Dec 2025 — Jun 2026)
 
 ```
-Core Stack:
-├── Backend: Rust (Axum/Actix + Tokio)
-├── AI/ML: PyTorch + Custom Models via PyO3
-├── 3D Engine: Bevy/Unity + WebGPU
-├── Blockchain: Casper/NEAR for smart contracts
-└── Storage: IPFS/Arweave for decentralized data
+Dec 2025  →  Alpha (3 simulations)
+Mar 2026  →  Beta (AI + Web3)
+May 2026  →  Public Launch
+Jun 2026  →  1,000 users ✓
 ```
 
-## 📚 Resources
+### Future Vision: Episteme OS
 
-### Public Documentation
-- 📖 [Vision Paper & Roadmap](https://github.com/desci-intelligent-universe/diu-vision) - Our philosophy and detailed plans
-- 🎮 [Interactive Demo](https://github.com/desci-intelligent-universe/physics-tutorial) - Try our quantum physics simulator
-- 📝 [Technical Documentation](https://github.com/desci-intelligent-universe/diu-docs) - Architecture and API guides
-- 💬 [Community Discussions](https://github.com/orgs/desci-intelligent-universe/discussions) - Join the conversation
+> After validating MVP, DIU will evolve into **Episteme** — a full Scientific Operating System where AI actively participates in research, not just assists.
 
-### Getting Started
+| Phase | Timeline | Goal |
+|-------|----------|------|
+| Phase 0 | 2025-2026 | Physics Tutorial MVP |
+| Phase 1 | 2026-2027 | Research Platform |
+| Phase 2 | 2027-2028 | Virtual Laboratories |
+| **Phase 3** | **2028+** | **Episteme OS** |
+
+<details>
+<summary>🔮 Long-term Vision (click to expand)</summary>
+
+**Episteme OS** will be a complete transformation of scientific knowledge creation:
+
+- **Knowledge Graph**: Global network of scientific concepts
+- **Living Publications**: Interactive papers with real-time updates
+- **Hybrid Intelligence**: AI as research partner, not just tool
+- **VR/AR Labs**: Immersive scientific environments
+- **Decentralized Governance**: DAO-based community decisions
+
+*This vision is preserved in our architecture documents for future implementation.*
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Backend:    Rust (Axum) + PostgreSQL + Supabase
+Frontend:   React + Three.js + TypeScript
+AI:         OpenAI API / Claude API
+Web3:       Ethereum L2 (planned)
+```
+
+---
+
+## 🤝 Get Involved
+
+### For Developers
 ```bash
-# Clone the demo
 git clone https://github.com/desci-intelligent-universe/physics-tutorial.git
-
-# Install dependencies
 cd physics-tutorial
-cargo build --release
-
-# Run the interactive tutorial
-cargo run
+# See README for setup instructions
 ```
 
-## 🤝 Collaboration Opportunities
+### For Scientists & Educators
+- Join our pilot program
+- Provide physics accuracy feedback
+- Suggest simulation ideas
 
-We're actively seeking partnerships with:
+### For Investors
+- Pre-Seed round: $150-250K
+- Contact: barust67@gmail.com
 
-| Partner Type | How We Collaborate |
-|-------------|-------------------|
-| **Research Institutions** | Pilot programs, data partnerships, joint research |
-| **Universities** | Educational tools, student projects, curriculum integration |
-| **Scientists** | Early access, feedback programs, co-development |
-| **Developers** | Open-source contributions, hackathons, bounties |
-| **Investors** | Seed funding, strategic partnerships, advisory roles |
+---
 
-## 🌟 Community & Contributing
+## 👤 Team
 
-- **Join Discord**: [Coming soon] - Real-time discussions
-- **GitHub Discussions**: Technical Q&A and feature requests
-- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
-- **Code of Conduct**: We follow a strict [Code of Conduct](CODE_OF_CONDUCT.md)
+**Bakhtiyor Ruzimatov (Barust)** — Founder & CTO  
+📧 barust67@gmail.com  
+🐙 [@barust](https://github.com/barust)
 
-## 📊 Project Status
+---
 
-| Component | Status | Progress |
-|-----------|--------|----------|
-| Core Architecture | 🟡 In Development | 40% |
-| Physics Simulator | 🟢 Alpha | 70% |
-| AI Integration | 🔴 Planning | 20% |
-| Web3 Infrastructure | 🔴 Design Phase | 15% |
-| Documentation | 🟡 In Progress | 50% |
+## 📄 License
 
-## 🔒 Repository Structure
-
-```
-desci-intelligent-universe/
-├── Public Repositories (Open Source)
-│   ├── diu-vision         # Vision, roadmap, documentation
-│   ├── physics-tutorial   # Interactive quantum physics MVP
-│   └── awesome-desci      # Curated DeSci resources
-└── Private Repositories (Proprietary)
-    ├── diu-core          # Platform core engine
-    ├── diu-ai-models     # AI/ML algorithms
-    └── diu-blockchain    # Smart contracts & Web3
-```
-
-> **Note**: Core platform development occurs in private repositories to protect intellectual property during early stages. We progressively open-source mature components.
-
-## 📫 Contact
-
-- **Founder & CTO**: Bakhtiyor Ruzimatov
-- **Email**: barust67@gmail.com
-- **Organization**: [github.com/desci-intelligent-universe](https://github.com/desci-intelligent-universe)
-- **Website**: [Coming soon]
-- **Research Inquiries**: research@diu-project.org [Coming soon]
-
-## 📈 Metrics & Goals
-
-| Milestone | Target Date | Success Metric |
-|-----------|------------|----------------|
-| MVP Release | Q2 2025 | 1,000+ users |
-| First Publication | Q3 2025 | Peer-reviewed paper using DIU |
-| Web3 Launch | Q4 2025 | First on-chain transaction |
-| VR Lab Beta | Q2 2026 | 10,000+ MAU |
-| Platform v1.0 | Q4 2026 | 100,000+ users |
-
-## 💎 Support the Project
-
-While in early development, you can support DIU by:
-- ⭐ Starring our repositories
-- 🔄 Sharing with your network
-- 💬 Providing feedback in discussions
-- 🤲 Contributing code or documentation
-- 💰 [Sponsorship opportunities](mailto:barust67@gmail.com)
-
-## ⚖️ License
-
-Copyright © 2025 Bakhtiyor Ruzimatov. All rights reserved.
-
-This project uses dual licensing:
-- **Community Edition**: Open source components (Apache 2.0/MIT)
-- **Enterprise Edition**: Proprietary core platform
-
-See [LICENSE](LICENSE) for details.
+Open Source: MIT License
 
 ---
 
 <div align="center">
-  
-**Building the cognitive future of science, one commit at a time**
 
-*Transforming how humanity discovers, validates, and shares knowledge*
+*Transforming how humanity discovers and shares knowledge*
 
-Est. 2025 • Bishkek, Kyrgyzstan 🇰🇬
+**Est. 2025 • Bishkek, Kyrgyzstan 🇰🇬**
+
+⭐ Star our repos to follow progress!
 
 </div>
