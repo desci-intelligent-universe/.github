@@ -50,21 +50,21 @@ May 2026  →  Public Launch
 Jun 2026  →  1,000 users ✓
 ```
 
-### Future Vision: DIU OS
+### Future Vision: Episteme OS
 
-> After validating MVP, DIU will evolve into **DIU OS** — a full Scientific Operating System where AI actively participates in research, not just assists.
+> After validating MVP, DIU will evolve into **Episteme** — a full Scientific Operating System where AI actively participates in research, not just assists.
 
 | Phase | Timeline | Goal |
 |-------|----------|------|
 | Phase 0 | 2025-2026 | Physics Tutorial MVP |
 | Phase 1 | 2026-2027 | Research Platform |
 | Phase 2 | 2027-2028 | Virtual Laboratories |
-| **Phase 3** | **2028+** | **DIU OS** |
+| **Phase 3** | **2028+** | **Episteme OS** |
 
 <details>
-<summary>🔮 Long-term Vision: DIU OS (click to expand)</summary>
+<summary>🔮 Long-term Vision (click to expand)</summary>
 
-**DIU OS** will be a complete transformation of scientific knowledge creation:
+**Episteme OS** will be a complete transformation of scientific knowledge creation:
 
 - **Knowledge Graph**: Global network of scientific concepts
 - **Living Publications**: Interactive papers with real-time updates
