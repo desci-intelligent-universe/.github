@@ -4,3 +4,36 @@ github: # Replace with up to 4 GitHub Sponsors-enabled usernames
 patreon: # Replace with a single Patreon username
 open_collective: # Replace with a single Open Collective username
 custom: # Replace with up to 4 custom sponsorship URLs
+# DIU (DeSci Intelligent Universe) Funding Configuration
+# This file enables the GitHub Sponsor button on all repositories in the organization
+
+# GitHub Sponsors - ПРИОРИТЕТ #1
+# Настройте на github.com/sponsors/new
+github: [desci-intelligent-universe, barust]  # Организация + ваш личный аккаунт
+
+# Crypto-friendly платформы - ПРИОРИТЕТ для Web3
+open_collective: diu-protocol  # Прозрачные финансы, поддержка крипто
+
+# Простые донаты - низкий порог входа
+ko_fi: diuscience  # Простые one-time платежи от $3
+buy_me_a_coffee: diuplatform  # Альтернатива Ko-fi, популярна у разработчиков
+
+# Gitcoin и другие Web3 платформы через custom
+custom: [
+  'https://gitcoin.co/grants/diu-protocol',  # Quadratic funding
+  'https://diu.science/donate',  # Ваш сайт с крипто-адресами
+  'https://app.ens.domains/diu.eth',  # ENS для прямых донатов
+  'https://juicebox.money/v2/p/diu'  # DAO treasury management
+]
+
+# Опциональные (добавить позже при росте):
+# patreon: diu_science  # Если будете делать контент/видео
+# liberapay: diu-team  # Европейская альтернатива
+# polar: diu-protocol  # Новая платформа для open source
+# issuehunt: diu  # Bounties за issues
+
+# НЕ рекомендую сейчас:
+# tidelift: # Для зрелых проектов с enterprise support
+# community_bridge: # Сложная настройка, Linux Foundation
+# lfx_crowdfunding: # Тоже Linux Foundation
+# thanks_dev: # Малоизвестная платформа
